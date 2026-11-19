@@ -9,4 +9,4 @@ Unbound theme only. Module folder: `Unbound - Hero Banner.module`.
 
 Looks include centered, split, and form. Section background is Use surface, Color, Image, Gradient, or Video. Surfaces are Light, Soft, Dark, Brand, and Gradient.
 
-Do not move objects between looks. Divider shapes and the overlap band are specified and not built. Use the section-dividers skill for that menu.
+Do not move objects between looks.
